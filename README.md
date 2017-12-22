@@ -7,3 +7,5 @@ A user can select from one of the three default colors to draw on the canvas or 
 
 Click here to view a demo of the project. [View Demo](https://trishachi.github.io/Simple-Canvas-Drawing-Application/)
 
+**The project is work-in-progress and I welcome suggestions on how to add more functionality to it.** :thought_balloon: :bulb:
+
